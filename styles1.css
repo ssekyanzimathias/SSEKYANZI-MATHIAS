@@ -1,0 +1,61 @@
+
+div{
+	
+	text-align:center;
+	margin:5%;
+	background-color:#blue;
+	padding:9px;
+	border:1px solid black;
+	border-radius:10px;
+	box-shadow:1px 1px 1px black;
+	content:center
+}
+.vvv{
+	border-radius:50%;
+	   width:5%;transition-duration:1s;  
+    }  
+    
+.vvv:hover{   
+transform: rotate(30deg);  
+transform-origin
+}
+h2{
+font-size:30PX
+}
+H1{
+	font-size:40PX
+}
+.A{text-indent:50px
+}
+.B{word-spacing:30px
+}
+.C{letter-spacing:4px}
+.D{direction:rtl
+}/*demostrating units (absolute)in css using the id selector*/
+#A{font-size:1cm;}
+#B{font-size:8mm}
+#C{font-size:8px}
+#D{font-size:0.9in}
+#E{font-size:5pc
+}
+.F{font-size:3rem}
+.G{font-size:2ch;}
+.H{font-size:10vw;
+color:red}
+.I{fontsize:10vh}
+.J{font-size:10vmin}
+.K{font-size:10vmax;}
+.block{ background:teal;
+display:block;
+box-shadow:1cm;
+border: 9px solid black;
+padding:10px;
+border-radius:5%;
+text-shadow:5cm red;
+}#red{
+	background-color: white;
+	text-shadow:5px red
+}
+div{
+	background-color:red;
+}

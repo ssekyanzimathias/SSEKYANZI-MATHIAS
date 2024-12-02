@@ -1,0 +1,110 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Georgia;
+    line-height: 1.6;
+    background-color: #e6acac;
+    color: #333;
+	padding:10px;
+	margin:20px;
+}
+#D{
+	font-size:60px;
+}
+header {
+    background:red ;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+h1, {
+	
+}
+h2 {
+    margin-bottom: 1rem;
+	color:red;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro, .events,{
+margin-bottom: 2rem;} 
+
+.registration-form {
+    margin-bottom: 3rem;
+}
+
+label {
+    display: block;
+    margin: 15px 0 5px;
+}
+#H{
+	font-size:50px
+}
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    display: inline-block;
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.do{
+	font-size :20px
+}
+
+button:hover {
+    background-color: #2ecc71;
+}
+
+footer {
+    background: red;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+form{
+	background-color:cream;
+	 border: none;
+    border-radius:;
+    cursor: pointer;
+}
